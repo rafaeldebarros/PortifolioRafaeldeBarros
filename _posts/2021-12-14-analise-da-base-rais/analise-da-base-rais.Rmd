@@ -1,0 +1,24 @@
+---
+title: "Análise da base RAIS"
+description: |
+  Essa análise tem como objetivo anaslisar os salários na base da RAIS. Esse Projeto foi feito na Semana Data Science na Prática do Curso-R.
+author:
+  - name: Rafael Souza de Barros
+    url: https://example.com/norajones
+date: 2021-12-14
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+Esse é meu primeiro projeto no RStudio
+
